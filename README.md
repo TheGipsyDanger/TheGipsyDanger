@@ -5,7 +5,7 @@
 
 ### Programming Languages 🌐
 
-<img src="https://simpleicons.org/icons/react.svg" width="40" height="40"/> <img src="http://simpleicons.org/icons/elixir.svg" width="40" height="40"/> <img src="http://simpleicons.org/icons/rubyonrails.svg" width="40" height="40"/> <img src="http://simpleicons.org/icons/node-dot-js.svg" width="40" height="40"/>
+<img src="http://simpleicons.org/icons/node-dot-js.svg" width="40" height="40"/> <img src="https://simpleicons.org/icons/react.svg" width="40" height="40"/> <img src="http://simpleicons.org/icons/elixir.svg" width="40" height="40"/> <img src="http://simpleicons.org/icons/rubyonrails.svg" width="40" height="40"/>
 
 ### 🤝🏻 Connect with Me 
 
