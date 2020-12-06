@@ -5,9 +5,6 @@
 
 ### 🌐 Programming Languages
 
-<div style="width:40px; height:40px, background-color: #339933 ">
-  <img src="http://simpleicons.org/icons/node-dot-js.svg" width="40" height="40" />
-</div>
 <img src="http://simpleicons.org/icons/node-dot-js.svg" width="40" height="40" /> <img src="https://simpleicons.org/icons/react.svg" width="40" height="40"/> 
 <img src="http://simpleicons.org/icons/next-dot-js.svg" width="40" height="40" /> <img src="https://simpleicons.org/icons/expo.svg" width="40" height="40"/> <img src="https://simpleicons.org/icons/redux.svg" width="40" height="40"/> <img src="http://simpleicons.org/icons/elixir.svg" width="40" height="40"/> <img src="http://simpleicons.org/icons/ruby.svg" width="40" height="40"/> <img src="http://simpleicons.org/icons/rubyonrails.svg" width="40" height="40"/> <img src="http://simpleicons.org/icons/github.svg" width="40" height="40" /> <img src="http://simpleicons.org/icons/git.svg" width="40" height="40" />
 
