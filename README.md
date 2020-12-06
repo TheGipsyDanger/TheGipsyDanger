@@ -11,6 +11,7 @@
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquebasshvf@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanfonte/)
+[![Facebook](https://img.shields.io/badge/-FACEBOOK-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/renan.henrique.771)
 
 ### My status
 
