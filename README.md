@@ -1,6 +1,6 @@
 ![wallpaper](https://user-images.githubusercontent.com/22872282/101290257-ca86d200-37df-11eb-8674-47979bc6121c.png)
 
-- :wave: Hello i'm TheGipsyDanger a full-Stack developer and founder of Vindicce Softwarestradutor
+- :wave: Hello i'm TheGipsyDanger a full-Stack developer and founder of Vindicce Softwares
 - 💬 Ask anything
 
 ### 🌐 Programming Languages
