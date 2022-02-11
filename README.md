@@ -1,4 +1,4 @@
-![wallpaper](https://user-images.githubusercontent.com/22872282/101290257-ca86d200-37df-11eb-8674-47979bc6121c.png)
+![wallpaper](https://user-images.githubusercontent.com/22872282/153580230-d1536725-1de6-4e0d-8c67-5679469a0fc2.png)
 
 - :wave: Hello i'm TheGipsyDanger a full-Stack developer and founder of Vindicce Softwares
 - 💬 Ask anything
